@@ -1,0 +1,15 @@
+chromadb==0.5.3
+langchain==0.2.5
+langchain_community==0.2.5
+langchain-huggingface
+numpy<2.0.0
+pandas==2.2.2
+Pillow==10.3.0
+pymupdf==1.24.5
+sentence_transformers==3.0.1
+accelerate
+bitsandbytes
+tf2onnx
+clean-text[gpl]
+python-doctr[torch]
+pypdf
